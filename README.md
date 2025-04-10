@@ -31,7 +31,7 @@ The output includes:
 Install the required libraries using:
 
 ```bash
-pip install numpy matplotlib scipy
+pip3 install numpy matplotlib scipy
 ```
 
 # Input Files
@@ -77,7 +77,7 @@ Vg	Ch1	Ch2	Ch3	Ch4	Ch5	Ch6	Ch7	Ch8	Ch9	Ch10	Ch11	Ch12
 2. Run the script:
 
 ```bash
-python transfer_curve_analysis.py
+python3 transfer_curve_analysis.py
 ```
 
 ## Customization
